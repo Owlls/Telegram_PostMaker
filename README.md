@@ -7,8 +7,8 @@ there you can find two folders that includes ".jar" files and every kind of file
 every kind Operating system. 
  And You can see the result @Posts_Maker_bot. (Yon need to add it to your group\chanel )
 In order to connect your own bot to this app, you need to do do next steps:
-   - For makeing yor own bot and geting its token 
-   - you need write to @BotFather in Telegram.
+   - Firstly you need to make yor own bot in telegram and get its token 
+   - you must write to @BotFather in Telegram(You will get instructions there - just do it).
    - After yor need to add bot token to project
    - After you need to open this project in Intellij idea.
    - Then you must to find BOT.class and add inside "botToken" and "Username" which you got from  @BotFather.
