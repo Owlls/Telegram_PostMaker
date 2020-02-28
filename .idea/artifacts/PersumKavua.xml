@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="PersumKavua">
+    <output-path>$PROJECT_DIR$/out/artifacts/PersumKavua</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="PostMaker" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="PersumKavua.jar">
+        <element id="module-output" name="PersumKavua" />
+      </element>
+      <element id="library" level="application" name="org.telegram:telegrambots:4.2" />
+      <element id="library" level="application" name="javafx-swt" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,61 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PersumKavua:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PersumKavua_jar</output-path>
+    <root id="archive" name="PersumKavua.jar">
+      <element id="module-output" name="PersumKavua" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/telegrambots-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/telegrambots-meta-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/guice-4.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/javax.inject-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/aopalliance-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/guava-25.1-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/checker-qual-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/error_prone_annotations-2.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/j2objc-annotations-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/animal-sniffer-annotations-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jackson-annotations-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jackson-jaxrs-json-provider-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jackson-jaxrs-base-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jackson-module-jaxb-annotations-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jackson-databind-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jackson-core-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jersey-media-json-jackson-2.25.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jersey-common-2.25.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jersey-guava-2.25.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/osgi-resource-locator-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jersey-entity-filtering-2.25.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jersey-container-grizzly2-http-2.25.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/javax.inject-2.5.0-b32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/grizzly-http-server-2.3.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/grizzly-http-2.3.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/grizzly-framework-2.3.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/javax.ws.rs-api-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jersey-server-2.25.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jersey-client-2.25.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/jersey-media-jaxb-2.25.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/javax.annotation-api-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/hk2-api-2.5.0-b32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/hk2-utils-2.5.0-b32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/aopalliance-repackaged-2.5.0-b32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/hk2-locator-2.5.0-b32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/javassist-3.20.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/validation-api-1.1.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/json-20180813.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/httpclient-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/httpcore-4.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/httpmime-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aizi_Bot/lib/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-13.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-13.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-13.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-13.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-13.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-13.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-13.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-13.0.2/lib/javafx.web.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
